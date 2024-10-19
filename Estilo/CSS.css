@@ -19,7 +19,7 @@ nav {
     height: 100px;
     width: 100%;
     position: fixed;
-    color: goldenrod;
+    color:yellow; 
     background-color: rgba(0, 0, 0, 0.4);
     backdrop-filter: blur(5px);
     display: flex;
